@@ -15,7 +15,7 @@
     "text-summarization",
     "prompt-engineering"
   ],
-  "author": "Tonde / Nedbank Hub",
+  "author": "Menelisi / Nedbank Hub",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.7",
